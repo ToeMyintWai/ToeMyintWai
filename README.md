@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Frontend/Backend
 - 💞️ I’m looking to collaborate on awsome Websites
-- 📫 How to reach me 
 
 <!---
 ToeMyintWai/ToeMyintWai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
